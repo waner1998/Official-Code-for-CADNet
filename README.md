@@ -1,6 +1,6 @@
 # Official-Code-for-CADNet
 The code for 'A Novel Neural Architecture with Multi-level Feature Extraction Coordinated by Dendritic Classifier'.
-
+![Model Architecture](https://toyamaailab.github.io/image/collections/CADNet.png)
 # Acknowledgments
 Our model is built upon the <https://github.com/chinhsuanwu/coatnet-pytorch>
 
